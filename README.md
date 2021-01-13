@@ -2,4 +2,4 @@
 # Python
 ## Exercicios para aprimorar conhecimento na linguagem Python.  
  # Primeiro Exercício 
- ## Calculadora
+ 1. Calculadora
